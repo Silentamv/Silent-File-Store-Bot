@@ -96,7 +96,7 @@ class Var(object):
     if HAS_SSL:
         URL = ""
     else:
-        URL = ""
+        URL = "https://pleased-terry-silentfilestorebot.koyeb.app/"
 
 
 
