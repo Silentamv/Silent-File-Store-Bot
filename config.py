@@ -45,8 +45,7 @@ DB_NAME = environ.get("DB_NAME", "Aru")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "7028356497:AAGzzr5J-4_3PfxFcbSAxlY71XTHtYzvncM
-")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7028356497:AAGzzr5J-4_3PfxFcbSAxlY71XTHtYzvncM")
 BOT_USERNAME = environ.get("BOT_USERNAME", "silentfilestorebot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/51c6e0783b18c736fb8d7.jpg')).split() # Bot Start Picture
 
